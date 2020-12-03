@@ -242,19 +242,3 @@ table(datA[,80])
 write.csv(Q5, file = "q5.csv",row.names = T)
 write.csv(Q6, file = "q6.csv",row.names = T)
 write.csv(Q7, file = "q7.csv",row.names = T)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
