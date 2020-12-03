@@ -1,2 +1,2 @@
-# HZG_NC
-A description analysis about Clonorchiasis and Enterobiasis
+# Clonorchiasis
+A descriptive and chi-square analysis about Clonorchiasis
