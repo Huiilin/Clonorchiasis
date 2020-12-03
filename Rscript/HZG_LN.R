@@ -6,7 +6,7 @@ options(scipen = 200)
 library(tidyverse)
 
 ## read in data
-datLN <- read.csv(file = "华支睾吸虫病_辽宁/华支睾吸虫-辽宁.csv",
+datLN <- read.csv(file = "file",
                   header = T,check.names = F)
 names(datLN)
 
@@ -288,50 +288,3 @@ for (i in a:a1) {
 }
 
 fisher.test(Q5w,simulate.p.value=TRUE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
