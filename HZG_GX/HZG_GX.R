@@ -1,5 +1,5 @@
 setwd("F:/YU")
-datA <- read.csv("华支睾吸虫-广西.csv",header = TRUE,check.names = FALSE,
+datA <- read.csv("file",header = TRUE,check.names = FALSE,
                  na.strings = "")
 str(datA)
 
