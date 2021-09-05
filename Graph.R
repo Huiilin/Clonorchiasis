@@ -43,19 +43,3 @@ ggplot(datZJ,aes(age)) + geom_histogram(na.rm = T,
         axis.title.y=element_text(size=12,face = "bold"))
 
 ggsave(filename = "AgeFre.png",width = 6,height = 6)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
